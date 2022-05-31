@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "115879573652",
+    "firebase_url": "https://paynav-new-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "paynav-new",
+    "storage_bucket": "paynav-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115879573652:android:b3ffbee1208fa6ea6d1c81",
+        "android_client_info": {
+          "package_name": "com.paynav.viaflutter.paynav_for_all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115879573652-mh7ekj1haq77fbs5jskrs7q5vvpa4tsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKVqLuYsNqqbVbrnHhius1otbapgSw8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115879573652-mh7ekj1haq77fbs5jskrs7q5vvpa4tsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115879573652:android:2db3e5d4e4fbc8756d1c81",
+        "android_client_info": {
+          "package_name": "in.paynav.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115879573652-8okc7vqt6pd6ujopr2dqb85lvr29a57n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.paynav.app",
+            "certificate_hash": "6fca4349f4b36cd1afe6b29716e4b4706413d2ac"
+          }
+        },
+        {
+          "client_id": "115879573652-fl9tc7janlkkhpvophuvlgn8oj7h8gti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.paynav.app",
+            "certificate_hash": "eb0baa79ae0e030d6b3d28be39a5c281817092b3"
+          }
+        },
+        {
+          "client_id": "115879573652-uart487mvc296etgasfalh6spg1g3hce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.paynav.app",
+            "certificate_hash": "1aa9816d5fb0c962ed52da37c9d2e954201e411c"
+          }
+        },
+        {
+          "client_id": "115879573652-mh7ekj1haq77fbs5jskrs7q5vvpa4tsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrKVqLuYsNqqbVbrnHhius1otbapgSw8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115879573652-mh7ekj1haq77fbs5jskrs7q5vvpa4tsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
